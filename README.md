@@ -43,3 +43,9 @@ If you leverage this atlas collection, in whole or in part, you MUST cite the fo
 
 <b>Neudorfer</b> (hypothalamus):
 * Neudorfer, C., Germann, J., Elias, G.J.B. et al. A high-resolution in vivo magnetic resonance imaging atlas of the human hypothalamic region. Sci Data 7, 305 (2020). https://doi.org/10.1038/s41597-020-00644-6
+
+## PCVD Lab Contributors
+(List lab members here.)
+
+## PCVD Lab Funding
+(List all funding here.)
