@@ -1,0 +1,35 @@
+ROI NUM	ROI LABEL	FULL LABEL
+1	[CB] I-IV L	Left I IV
+2	[CB] I-IV R	Right I IV
+3	[CB] V L	Left V
+4	[CB] V R	Right V
+5	[CB] VI L	Left VI
+6	[CB] vermis-VI	Vermis VI
+7	[CB] VI R	Right VI
+8	[CB] crus1 L	Left Crus I
+9	[CB] vermis-crus1	Vermis Crus I
+10	[CB] crus1 R	Right Crus I
+11	[CB] crus2 L	Left Crus II
+12	[CB] vermis-crus2	Vermis Crus II
+13	[CB] crus2 R	Right Crus II
+14	[CB] VIIb L	Left VIIb
+15	[CB] vermis-VIIb	Vermis VIIb
+16	[CB] VIIb R	Right VIIb
+17	[CB] VIIIa L	Left VIIIa
+18	[CB] vermis-VIIIa	Vermis VIIIa
+19	[CB] VIIIa R	Right VIIIa
+20	[CB] VIIIb L	Left VIIIb
+21	[CB] vermis-VIIIb	Vermis VIIIb
+22	[CB] VIIIb R	Right VIIIb
+23	[CB] IX L	Left IX
+24	[CB] vermis-IX	Vermis IX
+25	[CB] IX R	Right IX
+26	[CB] X L	Left X
+27	[CB] vermis-X	Vermis X
+28	[CB] X R	Right X
+29	[CB] dentateN L	Left Dentate
+30	[CB] dentateN R	Right Dentate
+31	[CB] interpN L	Left Interposed
+32	[CB] interpN R	Right Interposed
+33	[CB] fastigN L	Left Fastigial
+34	[CB] fastigN R	Right Fastigial

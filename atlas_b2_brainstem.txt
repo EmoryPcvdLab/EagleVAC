@@ -1,0 +1,66 @@
+[BS] CRlinRaphe
+[BS] CuneiformN L
+[BS] CuneiformN R
+[BS] DRaphe
+[BS] InfCollic L
+[BS] InfCollic R
+[BS] latIMRF L
+[BS] latIMRF R
+[BS] medIMRF L
+[BS] medIMRF R
+[BS] InfOlivN L
+[BS] InfOlivN R
+[BS] isthRF L
+[BS] isthRF R
+[BS] LocCoeruleus L
+[BS] LocCoeruleus R
+[BS] latDorTegN L
+[BS] latDorTegN R
+[BS] latPBN L
+[BS] latPBN R
+[BS] mcTegN L
+[BS] mvTegN R
+[BS] medRaphe
+[BS] medPBN L
+[BS] medPBN R
+[BS] antMesRF L
+[BS] antMesRF R
+[BS] dorsMesRF L
+[BS] dorsMesRF R
+[BS] latMesRF L
+[BS] latMesRF R
+[BS] PAG
+[BS] aParvReticN L
+[BS] aParvReticN R
+[BS] ParamedN
+[BS] PontReticN L
+[BS] PontReticN R
+[BS] PedPontineN L
+[BS] PedPontine R
+[BS] RapheMagN
+[BS] RedN1 L
+[BS] RedN1 R
+[BS] RedN2 L
+[BS] RedN2 R
+[BS] RapheObscN
+[BS] RaphePallN
+[BS] SupCollic L
+[BS] SupCollic R
+[BS] latSupMedulRF L
+[BS] latSupMedulRF R
+[BS] medSupMedulRF L
+[BS] medSupMedulRF R
+[BS] SubstNigRetic L
+[BS] SubstNigRetic R
+[BS] SubstNigComp L
+[BS] SubstNigComp R
+[BS] SupOlivCompl L
+[BS] SupOlivCompl R
+[BS] SubCoeruleus L
+[BS] SubCoeruleus R
+[BS] VestibN L
+[BS] VestibB R
+[BS] ViscSensMotN L
+[BS] ViscSensMotN R
+[BS] ventTegArea L
+[BS] ventTegArea R

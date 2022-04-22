@@ -1,0 +1,14 @@
+[TH] Pulvinar L
+[TH] AntPulvinar L
+[TH] Mediodorsal L
+[TH] VLdorsal L
+[TH] MedPulvinar L
+[TH] VAnt L
+[TH] VLventral L
+[TH] Pulvinar R
+[TH] AntPulvinar R
+[TH] Mediodorsal R
+[TH] VLdorsal R
+[TH] MedPulvinar R
+[TH] VAnt R
+[TH] VLventral R

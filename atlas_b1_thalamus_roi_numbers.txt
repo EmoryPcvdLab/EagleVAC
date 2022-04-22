@@ -1,0 +1,15 @@
+ROI NUM	ROI LABEL	FULL LABEL
+1	[TH] Pulvinar L	L pulvinar
+2	[TH] AntPulvinar L	L anterior pulvinar
+3	[TH] Mediodorsal L	L mediodorsal
+4	[TH] VLdorsal L	L ventrolateral dorsal
+5	[TH] MedPulvinar L	L medial pulvinar
+6	[TH] VAnt L	L ventral anterior
+7	[TH] VLventral L	L ventrolateral ventral
+8	[TH] Pulvinar R	R pulvinar
+9	[TH] AntPulvinar R	R anterior pulvinar
+10	[TH] Mediodorsal R	R mediodorsal
+11	[TH] VLdorsal R	R ventrolateral dorsal
+12	[TH] MedPulvinar R	R medial pulvinar
+13	[TH] VAnt R	R ventral anterior
+14	[TH] VLventral R	R ventrolateral ventral

@@ -1,0 +1,7 @@
+ROI NUM	ROI LABEL	FULL LABEL
+1	[DE] LGN L	L lateral geniculate nucleus
+2	[DE] LGN R	R lateral geniculate nucleus
+3	[DE] MGN L	L medial geniculate nucleus
+4	[DE] MGN R	R medial geniculate nucleus
+5	[DE] SubthalN L	L subthalamic nucleus
+6	[DE] SubthalN R	R subthalamic nucleus

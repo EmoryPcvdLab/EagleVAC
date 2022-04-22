@@ -1,0 +1,67 @@
+ROI NUM	ROI LABEL	FULL LABEL
+1	[BS] CRlinRaphe	Caudal-rostral linear raphe
+2	[BS] CuneiformN L	L cuneiform nucleus
+3	[BS] CuneiformN R	R cuneiform nucreus
+4	[BS] DRaphe	dorsal raphe
+5	[BS] InfCollic L	L inferior colliculus
+6	[BS] InfCollic R	R inferior colliculus
+7	[BS] latIMRF L	L lateral inferior medullary reticular formation
+8	[BS] latIMRF R	R lateral inferior medullary reticular formation
+9	[BS] medIMRF L	L medial inferior medullary reticular formation
+10	[BS] medIMRF R	R medial inferior medullary reticular formation
+11	[BS] InfOlivN L	L inferior olivary nucleus
+12	[BS] InfOlivN R	R inferior olivary nucleus
+13	[BS] isthRF L	L isthmic reticular formation
+14	[BS] isthRF R	R isthmic reticular formation
+15	[BS] LocCoeruleus L	L locus coeruleus
+16	[BS] LocCoeruleus R	R locus coeruleus
+17	[BS] latDorTegN L	L lateral dorsal tegmental nucleus
+18	[BS] latDorTegN R	R lateral dorsal tegmental nucleus
+19	[BS] latPBN L	L lateral parabrachial nucleus
+20	[BS] latPBN R	R lateral parabrachial nucleus
+21	[BS] mcTegN L	L microcellular tegmental nucleus
+22	[BS] mvTegN R	R microcellular tegmental nucleus
+23	[BS] medRaphe	median raphe
+24	[BS] medPBN L	L medial parabrachial nucleus
+25	[BS] medPBN R	R medial parabrachial nucleus
+26	[BS] antMesRF L	L anterior mesencephalic reticular formation
+27	[BS] antMesRF R	R anterior mesencephalic reticular formation
+28	[BS] dorsMesRF L	L dorsal mesencephalic reticular formation
+29	[BS] dorsMesRF R	R dorsal mesencephalic reticular formation
+30	[BS] latMesRF L	L lateral mesencephalic reticular formation
+31	[BS] latMesRF R	R lateral mesencephalic reticular formation
+32	[BS] PAG	periaqueductal grey
+33	[BS] aParvReticN L	L parvocellular reticular nucleus, alpha part
+34	[BS] aParvReticN R	R parvocellular reticular nucleus, alpha part
+35	[BS] ParamedN	paramedian nucleus
+36	[BS] PontReticN L	L pontine reticular formation
+37	[BS] PontReticN R	R pontine reticular formation
+38	[BS] PedPontineN L	L pedunculopontine nucleus
+39	[BS] PedPontine R	R pedunculopontine nucleus
+40	[BS] RapheMagN	nucleus raphe magnus
+41	[BS] RedN1 L	L red nucleus subregion 1
+42	[BS] RedN1 R	R red nucleus subregion 1
+43	[BS] RedN2 L	L red nucleus subregion 2
+44	[BS] RedN2 R	R red nucleus subregion 2
+45	[BS] RapheObscN	raphe obscurus
+46	[BS] RaphePallN	raphe pallidus
+47	[BS] SupCollic L	L superior colliculus
+48	[BS] SupCollic R	R superior colliculus
+49	[BS] latSupMedulRF L	L lateral superior medullary reticular formation
+50	[BS] latSupMedulRF R	R lateral superior medullary reticular formation
+51	[BS] medSupMedulRF L	L medial superior medullary reticular formation
+52	[BS] medSupMedulRF R	R medial superior medullary reticular formation
+53	[BS] SubstNigRetic L	L substantia nigra, pars reticulata
+54	[BS] SubstNigRetic R	R substantia nigra, pars reticulata
+55	[BS] SubstNigComp L	L substantia nigra, pars compacta
+56	[BS] SubstNigComp R	R substantia nigra, pars compacta
+57	[BS] SupOlivCompl L	L superior olivary complex
+58	[BS] SupOlivCompl R	R superior olivary complex
+59	[BS] SubCoeruleus L	L subcoeruleus
+60	[BS] SubCoeruleus R	R subcoeruleus
+61	[BS] VestibN L	L vestibular nuclei complex
+62	[BS] VestibB R	R vestibular nuclei complex
+63	[BS] ViscSensMotN L	L viscero-sensorimotor nuclei complex
+64	[BS] ViscSensMotN R	R viscero-sensorimotor nuclei complex
+65	[BS] ventTegArea L	L ventral tegmental area
+66	[BS] ventTegArea R	R ventral tegmental area

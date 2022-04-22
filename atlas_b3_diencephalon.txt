@@ -1,0 +1,6 @@
+[DE] LGN L
+[DE] LGN R
+[DE] MGN L
+[DE] MGN R
+[DE] SubthalN L
+[DE] SubthalN R

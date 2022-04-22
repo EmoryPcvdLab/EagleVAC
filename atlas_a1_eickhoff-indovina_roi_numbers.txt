@@ -1,0 +1,103 @@
+ROI NUM	ROI LABEL	FULL LABEL (*vestibular, **expanded/multimodal vestibular)
+1	PIC L	L posterior insular complex (Indovina) [*]
+2	PIC R	R posterior insular complex (Indovina) [*]
+3	[EI] AIPS IP3 L	L hIPS3/hIP3/VIP [**]
+4	[EI] Amg CM L	L centromedian nucleus of amygdala
+5	[EI] Amg IF L	L intermediate fibers of amygdala
+6	[EI] Amg LB L	L laterobasal nucleus of amygdala
+7	[EI] Amg MF L	L medial fibers of amygdala
+8	[EI] Amg SF L	L superficial nucleus of amygdala
+9	[EI] Amg VTM L	L ventromedial fibers of amygdala
+10	[EI] Cing 25 L	L subgenual cingulate area 25
+11	[EI] Cing p24ab L	L ventral (pregenual) anterior cingulate p24ab (interoception)
+12	[EI] Cing p24c L	L ventral (pregenual) anterior cingulate p24c (action inhibition)
+13	[EI] Cing p32 L	L dorsal anterior cingulate p32 (emotion regulation)
+14	[EI] Cing s24 L	L ventral (subgenual) anterior cingulate s24
+15	[EI] Cing s32 L	L dorsal (subgenual) anterior cingulate s32
+16	[EI] HC CA L	L cornu ammonis of hippocampus
+17	[EI] HC DG L	L dentate gyrus of hippocampus
+18	[EI] HC EC L	L entorhinal cortex
+19	[EI] HC HATA L	L hippocampal-amygdalar transition area
+20	[EI] HC Subc L	L subiculum
+21	[EI] Ins Id1 L	L ventral posterior (dysgranular) insula area Id1
+22	[EI] Ins Id7 L	L (dysgranular) insula area Id7
+23	[EI] Ins Ig1 L	L dorsal posterior (granular) insula area Ig1
+24	[EI] Ins Ig2 L	L dorsal posterior (granular) insula area Ig2
+25	[EI] IPL PFcm L	L inferior parietal/supramarginal area PFcm [*]
+26	[EI] IPL PF L	L inferior parietal area PF/40/anterior supramarginal gyrus [*]
+27	[EI] OFC Fo1 L	L granular orbitofrontal area Fo1/rostral gyrus rectus
+28	[EI] OFC Fo2 L	L dysgranular orbitofrontal area Fo2/posterior ventromedial gyrus rectus
+29	[EI] OFC Fo3 L	L granular orbitofrontal area Fo3/medial orbital sulcus
+30	[EI] OP1 L	L parietal area OP1 (SII)
+31	[EI] OP2 L	L parietal area OP2 (parieto-insular vestibular cortex, PIVC) [*]
+32	[EI] OP3 L	L parietal area OP3 (VS)
+33	[EI] OP4 L	L parietal area OP4 (PV)
+34	[EI] OP8 L	L parietal area OP8
+35	[EI] OP9 L	L parietal area OP9
+36	[EI] PSC 2 L	L primary somatosensory area 2 [**]
+37	[EI] PSC 3a L	L primary somatosensory area 3a [**]
+38	[EI] PSC 3b L	L primary somatosensory area 3b
+39	[EI] Vis FG1 L	L posterior fusiform extrastriate visual area FG1
+40	[EI] Vis FG2 L	L posterior fusiform extrastriate visual area FG2/FFA/FVWFA
+41	[EI] Vis FG3 L	L mid-fusiform/ventral temporal visual area FG3
+42	[EI] Vis FG4 L	L mid-fusiform/ventral temporal visual area FG4
+43	[EI] Vis hOc1 L	L visual area V1
+44	[EI] Vis hOc2 L	L visual area V2
+45	[EI] Vis hOc3d L	L visual area V3d
+46	[EI] Vis hOc3v L	L visual area V3v/VP
+47	[EI] Vis hOc4d L	L visual area V3A
+48	[EI] Vis hOc4la L	L lateral occipital visual area 1
+49	[EI] Vis hOc4lp L	L lateral occipital visual area 2
+50	[EI] Vis hOc4v L	L visual area V4/V4v
+51	[EI] Vis hOc5 L	L visual area V5/MT [**]
+52	[EI] Vis hOc6 L	L visual area V6
+53	[EI] AIPS IP3 R	R hIPS3/hIP3/VIP [**]
+54	[EI] Amg CM R	R centromedian nucleus of amygdala
+55	[EI] Amg IF R	R intermediate fibers of amygdala
+56	[EI] Amg LB R	R laterobasal nucleus of amygdala
+57	[EI] Amg MF R	R medial fibers of amygdala
+58	[EI] Amg SF R	R superficial nucleus of amygdala
+59	[EI] Amg VTM R	R ventromedial fibers of amygdala
+60	[EI] Cing 25 R	R subgenual cingulate
+61	[EI] Cing p24ab R	R ventral anterior cingulate p24ab
+62	[EI] Cing p24c R	R ventral anterior cingulate p24c
+63	[EI] Cing p32 R	R dorsal anterior cingulate p32
+64	[EI] Cing s24 R	R ventral anterior cingulate s24
+65	[EI] Cing s32 R	R dorsal anterior cingulate s32
+66	[EI] HC CA R	R cornu ammonis of hippocampus
+67	[EI] HC DG R	R dentate gyrus of hippocampus
+68	[EI] HC EC R	R entorhinal cortex
+69	[EI] HC HATA R	R hippocampal-amygdalar transition area
+70	[EI] HC Subc R	R subiculum
+71	[EI] Ins Id1 R	R ventral posterior (dysgranular) insula area Id1
+72	[EI] Ins Id7 R	R (dysgranular) insula area Id7
+73	[EI] Ins Ig1 R	R dorsal posterior (granular) insula area Ig1
+74	[EI] Ins Ig2 R	R dorsal posterior (granular) insula area Ig2
+75	[EI] IPL PFcm R	R inferior parietal/supramarginal area PFcm [*]
+76	[EI] IPL PF R	R inferior parietal area PF/40/anterior supramarginal gyrus [*]
+77	[EI] OFC Fo1 R	R granular orbitofrontal area Fo1/rostral gyrus rectus
+78	[EI] OFC Fo2 R	R dysgranular orbitofrontal area Fo2/posterior ventromedial gyrus rectus
+79	[EI] OFC Fo3 R	R granular orbitofrontal area Fo3/medial orbital sulcus
+80	[EI] OP1 R	R parietaR area OP1 (SII)
+81	[EI] OP2 R	R parietaR area OP2 (parieto-insular vestibular cortex, PIVC) [*]
+82	[EI] OP3 R	R parietaR area OP3 (VS)
+83	[EI] OP4 R	R parietaR area OP4 (PV)
+84	[EI] OP8 R	R parietaR area OP8
+85	[EI] OP9 R	R parietaR area OP9
+86	[EI] PSC 2 R	R primary somatosensory area 2 [**]
+87	[EI] PSC 3a R	R primary somatosensory area 3a [**]
+88	[EI] PSC 3b R	R primary somatosensory area 3b
+89	[EI] Vis FG1 R	R posterior fusiform extrastriate visual area FG1
+90	[EI] Vis FG2 R	R posterior fusiform extrastriate visual area FG2/FFA/FVWFA
+91	[EI] Vis FG3 R	R mid-fusiform/ventral temporal visual area FG3
+92	[EI] Vis FG4 R	R mid-fusiform/ventral temporal visual area FG4
+93	[EI] Vis hOc1 R	R visual area V1
+94	[EI] Vis hOc2 R	R visual area V2
+95	[EI] Vis hOc3d R	R visual area V3d
+96	[EI] Vis hOc3v R	R visual area V3v/VP
+97	[EI] Vis hOc4d R	R visual area V3A
+98	[EI] Vis hOc4la R	R lateraR occipital visual area 1
+99	[EI] Vis hOc4lp R	R lateraR occipital visual area 2
+100	[EI] Vis hOc4v R	R visual area V4/V4v
+101	[EI] Vis hOc5 R	R visual area V5/MT [**]
+102	[EI] Vis hOc6 R	R visual area V6

@@ -1,0 +1,230 @@
+ROI NUM	ROI LABEL	FULL LABEL (*vestibular, **expanded/multimodal vestibular)
+1	[BN] A8m L	L medial  area 8
+2	[BN] A8m R	R medial  area 8
+3	[BN] A8dl L	L dorsolateral  area 8
+4	[BN] A8dl R	R dorsolateral  area 8
+5	[BN] A9l L	L lateral prefrontal  area 9
+6	[BN] A9l R	R lateral prefrontal  area 9
+7	[BN] A6dl L	L dorsolateral  area 6/premotor cortex
+8	[BN] A6dl R	R dorsolateral  area 6/premotor cortex
+9	[BN] A6m L	L medial  area 6
+10	[BN] A6m R	R medial  area 6
+11	[BN] A9m L	L medial  area 9
+12	[BN] A9m R	R medial  area 9
+13	[BN] A10m L	L medial  area 10
+14	[BN] A10m R	R medial  area 10
+15	[BN] A9/46d L	L prefrontal  area 9/dorsal 46
+16	[BN] A9/46d R	R prefrontal  area 9/dorsal 46
+17	[BN] IFJ L	L inferior frontal junction
+18	[BN] IFJ R	R inferior frontal junction
+19	[BN] A46 L	L prefrontal  area 46
+20	[BN] A46 R	R prefrontal  area 46
+21	[BN] A9/46v L	L prefrontal  area 9/ventral 46
+22	[BN] A9/46v R	R prefrontal  area 9/ventral 46
+23	[BN] A8vl L	L ventrolateral middle frontal area 8
+24	[BN] A8vl R	R ventrolateral middle frontal area 8
+25	[BN] A6vl L	L ventrolateral middle frontal area 6
+26	[BN] A6vl R	R ventrolateral middle frontal area 6
+27	[BN] A10l L	L lateral middle frontal area 10
+28	[BN] A10l R	R lateral middle frontal area 10
+29	[BN] A44d L	L dorsal prefrontal/inferior frontal area 44
+30	[BN] A44d R	R dorsal prefrontal/inferior frontal area 44
+31	[BN] IFS L	L inferior frontal sulcus
+32	[BN] IFS R	R inferior frontal sulcus
+33	[BN] A45c L	L caudal prefrontal area 45
+34	[BN] A45c R	R caudal prefrontal area 45
+35	[BN] A45r L	L rostral prefrontal area 45
+36	[BN] A45r R	R rostral prefrontal area 45
+37	[BN] A44op L	L inferior frontal area 44 (opercular part)
+38	[BN] A44op R	R inferior frontal area 44 (opercular part)
+39	[BN] A44v L	L inferior frontal area 44 (ventral part)
+40	[BN] A44v R	R inferior frontal area 44 (ventral part)
+41	[BN] A14m L	L medial ventromedial prefrontal area 14
+42	[BN] A14m R	R medial ventromedial prefrontal area 14
+43	[BN] A12/47o L	L frontal area 12/opercular area 47
+44	[BN] A12/47o R	R frontal area 12/opercular area 47
+45	[BN] A11l L	L lateral orbitofrontal area 11
+46	[BN] A11l R	R lateral orbitofrontal area 11
+47	[BN] A11m L	L medial orbitofrontal area 11
+48	[BN] A11m R	R medial orbitofrontal area 11
+49	[BN] A13 L	L orbitofrontal area 13
+50	[BN] A13 R	R orbitofrontal area 13
+51	[BN] A12/47l L	L frontal area 12/lateral area 47
+52	[BN] A12/47l R	R frontal area 12/lateral area 47
+53	[BN] A4hf L	L precentral area 4 (head/face)
+54	[BN] A4hf R	R precentral area 4 (head/face)
+55	[BN] A6cdl L	L caudal dorsolateral area 6
+56	[BN] A6cdl R	R caudal dorsolateral area 6
+57	[BN] A4ul L	L precentral area 4 (upper limb)
+58	[BN] A4ul R	R precentral area 4 (upper limb)
+59	[BN] A4t L	L precentral area 4 (trunk)
+60	[BN] A4t R	R precentral area 4 (trunk)
+61	[BN] A4tl L	L precentral area 4 (tongue/larynx)
+62	[BN] A4tl R	R precentral area 4 (tongue/larynx)
+63	[BN] A6cvl L	L caudal ventrolateral area 6
+64	[BN] A6cvl R	R caudal ventrolateral area 6
+65	[BN] A1/2/3ll L	L postcentral area 1/2/3 (lower limb)
+66	[BN] A1/2/3ll R	R postcentral area 1/2/3 (lower limb)
+67	[BN] A4ll L	L precentral area 4 (lower limb)
+68	[BN] A4ll R	R precentral area 4 (lower limb)
+69	[BN] A38m L	L medial superior temporal area 38
+70	[BN] A38m R	R medial superior temporal area 38
+71	[BN] A41/42 L	L superior temporal area 41/42
+72	[BN] A41/42 R	R superior temporal area 41/42
+73	[BN] TE1.0/TE1.2 L	L superior temporal/auditory area TE1/0/1.2
+74	[BN] TE1.0/TE1.2 R	R superior temporal/auditory area TE1/0/1.2
+75	[BN] A22c L	L caudal superior temporal area 22
+76	[BN] A22c R	R caudal superior temporal area 22
+77	[BN] A38l L	L lateral superior temporal area 38
+78	[BN] A38l R	R lateral superior temporal area 38
+79	[BN] A22r L	L rostral superior temporal area 22
+80	[BN] A22r R	R rostral superior temporal area 22
+81	[BN] A21c L	L caudal middle temporal area 21
+82	[BN] A21c R	R caudal middle temporal area 21
+83	[BN] A21r L	L rostral middle temporal area 21
+84	[BN] A21r R	R rostral middle temporal area 21
+85	[BN] A37dl L	L dorsolateral middle temporal area 37/hMST [*]
+86	[BN] A37dl R	R dorsolateral middle temporal area 37/hMST [*]
+87	[BN] aSTS L	L anterior superior temporal sulcus
+88	[BN] aSTS R	R anterior superior temporal sulcus
+89	[BN] A20iv L	L inferior temporal/intermediate ventral area 20
+90	[BN] A20iv R	R inferior temporal/intermediate ventral area 20
+91	[BN] A37elv L	L extreme lateroventral inferior temporal area 37
+92	[BN] A37elv R	R extreme lateroventral inferior temporal area 37
+93	[BN] A20r L	L rostral inferior temporal area 20
+94	[BN] A20r R	R rostral inferior temporal area 20
+95	[BN] A20il L	L intermediate lateral inferior temporal area 20
+96	[BN] A20il R	R intermediate lateral inferior temporal area 20
+97	[BN] A37vl L	L ventrolateral inferior temporal area 37
+98	[BN] A37vl R	R ventrolateral inferior temporal area 37
+99	[BN] A20cl L	L caudolateral inferior temporal area 20
+100	[BN] A20cl R	R caudolateral inferior temporal area 20
+101	[BN] A20cv L	L ventrolateral inferior temporal area 20
+102	[BN] A20cv R	R ventrolateral inferior temporal area 20
+103	[BN] A20rv L	L rostroventral fusiform area 20
+104	[BN] A20rv R	R rostroventral fusiform area 20
+105	[BN] A37mv L	L medioventral fusiform area 37
+106	[BN] A37mv R	R medioventral fusiform area 37
+107	[BN] A37lv L	L lateroventral fusiform area 37
+108	[BN] A37lv R	R lateroventral fusiform area 37
+109	[BN] A35/36r L	L rostral parahippocampal area 35/36
+110	[BN] A35/36r R	R rostral parahippocampal area 35/36
+111	[BN] A35/36c L	L caudal parahippocampal area 35/36
+112	[BN] A35/36c R	R caudal parahippocampal area 35/36
+113	[BN] TL L	L lateral posterior parahippocampal gyrus
+114	[BN] TL R	R lateral posterior parahippocampal gyrus
+115	[BN] A28/34 L	L entorhinal area 28/34
+116	[BN] A28/34 R	R entorhinal area 28/34
+117	[BN] TI L	L temporal agranular insula
+118	[BN] TI R	R temporal agranular insula
+119	[BN] TH L	L hippocampotemporalis area
+120	[BN] TH R	R hippocampotemporalis area
+121	[BN] rpSTS L	L rostral posterior superior temporal sulcus
+122	[BN] rpSTS R	R rostral posterior superior temporal sulcus
+123	[BN] cpSTS L	L caudal posterior superior temporal sulcus
+124	[BN] cpSTS R	R caudal posterior superior temporal sulcus
+125	[BN] A7r L	L rostral superior parietal area 7
+126	[BN] A7r R	R rostral superior parietal area 7
+127	[BN] A7c L	L caudal superior parietal area 7
+128	[BN] A7c R	R caudal superior parietal area 7
+129	[BN] A5l L	L lateral superior parietal area 5
+130	[BN] A5l R	R lateral superior parietal area 5
+131	[BN] A7pc L	L postcentral/superior parietal area 7
+132	[BN] A7pc R	R postcentral/superior parietal area 7
+133	[BN] A7ip L	L intraparietal/superior parietal area 7 (hIP3) [**]
+134	[BN] A7ip R	R intraparietal/superior parietal area 7 (hIP3) [**]
+135	[BN] A39c L	L caudal inferior parietal area 39 (PGp)
+136	[BN] A39c R	R caudal inferior parietal area 39 (PGp)
+137	[BN] A39rd L	L rostrodorsal inferior parietal area 39 (Hip3)
+138	[BN] A39rd R	R rostrodorsal inferior parietal area 39 (Hip3)
+139	[BN] A40rd L	L rostrodorsal inferior parietal area 40 (PFt)
+140	[BN] A40rd R	R rostrodorsal inferior parietal area 40 (PFt)
+141	[BN] A40c L	L caudal inferior parietal area 40 (PFm)
+142	[BN] A40c R	R caudal inferior parietal area 40 (PFm)
+143	[BN] A39rv L	L rostroventral inferior parietal area 39 (PGa)
+144	[BN] A39rv R	R rostroventral inferior parietal area 39 (PGa)
+145	[BN] A40rv L	L rostroventral inferior parietal area 40 (PFop)
+146	[BN] A40rv R	R rostroventral inferior parietal area 40 (PFop)
+147	[BN] A7m L	L medial precunate area 7
+148	[BN] A7m R	R medial precunate area 7
+149	[BN] A5m L	L medial precunate area 5
+150	[BN] A5m R	R medial precunate area 5
+151	[BN] dmPOS L	L dorsomedial parieto-occipital sulcus
+152	[BN] dmPOS R	R dorsomedial parieto-occipital sulcus
+153	[BN] A31 L	L precunate area 31
+154	[BN] A31 R	R precunate area 31
+155	[BN] A1/2/3ulhf L	L postcentral area 1/2/3 (upper limb/head/face)
+156	[BN] A1/2/3ulhf R	R postcentral area 1/2/3 (upper limb/head/face)
+157	[BN] A1/2/3tonIa L	L postcentral area 1/2/3 (tongue/larynx)
+158	[BN] A1/2/3tonIa R	R postcentral area 1/2/3 (tongue/larynx)
+159	[BN] A2 L	L postcentral area 2 [**]
+160	[BN] A2 R	R postcentral area 2 [**]
+161	[BN] A1/2/3tru L	L postcentral area 1/2/3 (trunk)
+162	[BN] A1/2/3tru R	R postcentral area 1/2/3 (trunk)
+163	[BN] G L	L hypergranular insula
+164	[BN] G R	R hypergranular insula
+165	[BN] vIa L	L ventral agranular insula
+166	[BN] vIa R	R ventral agranular insula
+167	[BN] dIa L	L dorsal agranular insula
+168	[BN] dIa R	R dorsal agranular insula
+169	[BN] vId/vIg L	L ventral dysgranular/granular insula
+170	[BN] vId/vIg R	R ventral dysgranular/granular insula
+171	[BN] dIg L	L dorsal granular insula
+172	[BN] dIg R	R dorsal granular insula
+173	[BN] dId L	L dorsal dysgranular insula
+174	[BN] dId R	R dorsal dysgranular insula
+175	[BN] A23d L	L dorsal cingulate area 23
+176	[BN] A23d R	R dorsal cingulate area 23
+177	[BN] A24rv L	L rostroventral cingulate area 24
+178	[BN] A24rv R	R rostroventral cingulate area 24
+179	[BN] A32p L	L pregenual cingulate area 32
+180	[BN] A32p R	R pregenual cingulate area 32
+181	[BN] A23v L	L ventral area 23
+182	[BN] A23v R	R ventral area 23
+183	[BN] A24cd L	L caudodorsal cingulate area 24
+184	[BN] A24cd R	R caudodorsal cingulate area 24
+185	[BN] A23c L	L caudal cingulate area 23 [*]
+186	[BN] A23c R	R caudal cingulate area 23 [*]
+187	[BN] A32sg L	L subgenual cingulate area 32
+188	[BN] A32sg R	R subgenual cingulate area 32
+189	[BN] cLinG L	L caudal lingual gyrus/medioventral occipital cortex
+190	[BN] cLinG R	R caudal lingual gyrus/medioventral occipital cortex
+191	[BN] rCunG L	L rostral cuneus gyrus/medioventral occipital cortex
+192	[BN] rCunG R	R rostral cuneus gyrus/medioventral occipital cortex
+193	[BN] cCunG L	L caudal cuneus gyrus/medioventral occipital cortex
+194	[BN] cCunG R	R caudal cuneus gyrus/medioventral occipital cortex
+195	[BN] rLinG L	L rostral lingual gyrus/medioventral occipital cortex
+196	[BN] rLinG R	R rostral lingual gyrus/medioventral occipital cortex
+197	[BN] vmPOS L	L ventromedial parieto-occipital sulcus
+198	[BN] vmPOS R	R ventromedial parieto-occipital sulcus
+199	[BN] mOccG L	L middle occipital gyrus/lateral occipital cortex
+200	[BN] mOccG R	R middle occipital gyrus/lateral occipital cortex
+201	[BN] V5/MT+ L	L visual motion complex MT+/middle temporal area V5
+202	[BN] V5/MT+ R	R visual motion complex MT+/middle temporal area V5
+203	[BN] OPC L	L occipital polar cortex
+204	[BN] OPC R	R occipital polar cortex
+205	[BN] iOccG L	L inferior occipital gyrus/lateral occipital cortex
+206	[BN] iOccG R	R inferior occipital gyrus/lateral occipital cortex
+207	[BN] msOccG L	L medial superior occipital gyrus/lateral occipital cortex
+208	[BN] msOccG R	R medial superior occipital gyrus/lateral occipital cortex
+209	[BN] lsOccG L	L lateral superior occipital gyrus/lateral occipital cortex
+210	[BN] lsOccG R	R lateral superior occipital gyrus/lateral occipital cortex
+211	[BN] mAmyg L	L medial amygdala, not otherwise specified
+212	[BN] mAmyg R	R medial amygdala, not otherwise specified
+213	[BN] lAmyg L	L lateral amygdala, not otherwise specified
+214	[BN] lAmyg R	R lateral amygdala, not otherwise specified
+215	[BN] rHipp L	L rostral hippocampus, not otherwise specified
+216	[BN] rHipp R	R rostral hippocampus, not otherwise specified
+217	[BN] cHipp L	L caudal hippocampus, not otherwise specified
+218	[BN] cHipp R	R caudal hippocampus, not otherwise specified
+219	[BN] vCa L	L ventral caudate
+220	[BN] vCa R	R ventral caudate
+221	[BN] GP L	L globus pallidus
+222	[BN] GP R	R globus pallidus
+223	[BN] NAC L	L nucleus accumbens
+224	[BN] NAC R	R nucleus accumbens
+225	[BN] vmPu L	L ventromedial putamen
+226	[BN] vmPu R	R ventromedial putamen
+227	[BN] dCa L	L dorsal caudate
+228	[BN] dCa R	R dorsal caudate
+229	[BN] dlPu L	L dorsolateral putamen

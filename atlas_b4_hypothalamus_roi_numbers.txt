@@ -1,0 +1,9 @@
+ROI NUM	ROI LABEL	FULL LABEL
+1	[HT] MB R	R mammilary body
+2	[HT] MB L	L mammilary body
+3	[HT] BNST R	R bed nucleus of the stria terminalis
+4	[HT] BNST L	L bed nucleus of the stria terminalis
+5	[HT] NBasalis R	R nucleus baslis
+6	[HT] NBasalis L	L nucleus basalis
+7	[HT] Hthal R	R hypothalamus not otherwise specified
+8	[HT] Hthal L	L hypothalamus not otherwise specified

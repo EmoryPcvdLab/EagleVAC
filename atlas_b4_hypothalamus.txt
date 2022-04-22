@@ -1,0 +1,8 @@
+[HT] MB R
+[HT] MB L
+[HT] BNST R
+[HT] BNST L
+[HT] NBasalis R
+[HT] NBasalis L
+[HT] Hthal R
+[HT] Hthal L

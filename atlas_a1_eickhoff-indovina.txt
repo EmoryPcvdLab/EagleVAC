@@ -1,0 +1,102 @@
+[EI] PIC L
+[EI] PIC R
+[EI] AIPS IP3 L
+[EI] Amg CM L
+[EI] Amg IF L
+[EI] Amg LB L
+[EI] Amg MF L
+[EI] Amg SF L
+[EI] Amg VTM L
+[EI] Cing 25 L
+[EI] Cing p24ab L
+[EI] Cing p24c L
+[EI] Cing p32 L
+[EI] Cing s24 L
+[EI] Cing s32 L
+[EI] HC CA L
+[EI] HC DG L
+[EI] HC EC L
+[EI] HC HATA L
+[EI] HC Subc L
+[EI] Ins Id1 L
+[EI] Ins Id7 L
+[EI] Ins Ig1 L
+[EI] Ins Ig2 L
+[EI] IPL PFcm L
+[EI] IPL PF L
+[EI] OFC Fo1 L
+[EI] OFC Fo2 L
+[EI] OFC Fo3 L
+[EI] OP1 L
+[EI] OP2 L
+[EI] OP3 L
+[EI] OP4 L
+[EI] OP8 L
+[EI] OP9 L
+[EI] PSC 2 L
+[EI] PSC 3a L
+[EI] PSC 3b L
+[EI] Vis FG1 L
+[EI] Vis FG2 L
+[EI] Vis FG3 L
+[EI] Vis FG4 L
+[EI] Vis hOc1 L
+[EI] Vis hOc2 L
+[EI] Vis hOc3d L
+[EI] Vis hOc3v L
+[EI] Vis hOc4d L
+[EI] Vis hOc4la L
+[EI] Vis hOc4lp L
+[EI] Vis hOc4v L
+[EI] Vis hOc5 L
+[EI] Vis hOc6 L
+[EI] AIPS IP3 R
+[EI] Amg CM R
+[EI] Amg IF R
+[EI] Amg LB R
+[EI] Amg MF R
+[EI] Amg SF R
+[EI] Amg VTM R
+[EI] Cing 25 R
+[EI] Cing p24ab R
+[EI] Cing p24c R
+[EI] Cing p32 R
+[EI] Cing s24 R
+[EI] Cing s32 R
+[EI] HC CA R
+[EI] HC DG R
+[EI] HC EC R
+[EI] HC HATA R
+[EI] HC Subc R
+[EI] Ins Id1 R
+[EI] Ins Id7 R
+[EI] Ins Ig1 R
+[EI] Ins Ig2 R
+[EI] IPL PFcm R
+[EI] IPL PF R
+[EI] OFC Fo1 R
+[EI] OFC Fo2 R
+[EI] OFC Fo3 R
+[EI] OP1 R
+[EI] OP2 R
+[EI] OP3 R
+[EI] OP4 R
+[EI] OP8 R
+[EI] OP9 R
+[EI] PSC 2 R
+[EI] PSC 3a R
+[EI] PSC 3b R
+[EI] Vis FG1 R
+[EI] Vis FG2 R
+[EI] Vis FG3 R
+[EI] Vis FG4 R
+[EI] Vis hOc1 R
+[EI] Vis hOc2 R
+[EI] Vis hOc3d R
+[EI] Vis hOc3v R
+[EI] Vis hOc4d R
+[EI] Vis hOc4la R
+[EI] Vis hOc4lp R
+[EI] Vis hOc4v R
+[EI] Vis hOc5 R
+[EI] Vis hOc6 R

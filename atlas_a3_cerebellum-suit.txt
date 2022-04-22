@@ -1,0 +1,34 @@
+[CB] I-IV L
+[CB] I-IV R
+[CB] V L
+[CB] V R
+[CB] VI L
+[CB] vermis-VI
+[CB] VI R
+[CB] crus1 L
+[CB] vermis-crus1
+[CB] crus1 R
+[CB] crus2 L
+[CB] vermis-crus2
+[CB] crus2 R
+[CB] VIIb L
+[CB] vermis-VIIb
+[CB] VIIb R
+[CB] VIIIa L
+[CB] vermis-VIIIa
+[CB] VIIIa R
+[CB] VIIIb L
+[CB] vermis-VIIIb
+[CB] VIIIb R
+[CB] IX L
+[CB] vermis-IX
+[CB] IX R
+[CB] X L
+[CB] vermis-X
+[CB] X R
+[CB] dentateN L
+[CB] dentateN R
+[CB] interpN L
+[CB] interpN R
+[CB] fastigN L
+[CB] fastigN R
