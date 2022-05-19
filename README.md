@@ -15,8 +15,9 @@ This atlas collection is intended for use with the CONN Toolbox (https://web.con
 * Neudorfer Anatomical Hypothalamus Atlas
 ## Files
 * ".nii.gz" files contain the atlas ROIs
-* ".txt" files contain the ROI labels for use with the CONN Toolbox
+* "atlas...txt" files contain the ROI labels for use with the CONN Toolbox
 * "roi_numbers.txt" files contain human-readable ROI labels, ROI values, and their descriptions
+* "CONN suggested ROI order.txt" can be copied and pasted into CONN for connectome rendering, in order to sort ROIs by hemisphere, region, and function
 ## References
 If you leverage this atlas collection, in whole or in part, you MUST cite the following references in any publications.
 
