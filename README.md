@@ -17,7 +17,8 @@ This atlas collection is intended for use with the CONN Toolbox (https://web.con
 * ".nii.gz" files contain the atlas ROIs
 * "atlas...txt" files contain the ROI labels for use with the CONN Toolbox
 * "roi_numbers.txt" files contain human-readable ROI labels, ROI values, and their descriptions
-* "CONN suggested ROI order.txt" can be copied and pasted into CONN for connectome rendering, in order to sort ROIs by hemisphere, region, and function
+* "CONN suggested ROI order.txt" can be copied and pasted into CONN for connectome rendering, in order to sort ROIs by hemisphere, region, and function; also includes group labels such as SM (somatomotor), SS (somatosensory), VB (vestibular), BS-DE (brainstem-diencephalon), and CRB (cerebellum)
+* "CONN suggested labels.txt" can be copied and pasted into CONN for connectome rendering: this removes the initial atlas source (e.g., "EI.[EI]") which CONN automatically prefixes and shortens ROI labels for rendering
 ## References
 If you leverage this atlas collection, in whole or in part, you MUST cite the following references in any publications.
 
