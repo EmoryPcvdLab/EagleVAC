@@ -1,0 +1,449 @@
+PIC L
+PIC R
+AIPS IP3 L
+Amg CM L
+Amg IF L
+Amg LB L
+Amg MF L
+Amg SF L
+Amg VTM L
+Cing 25 L
+Cing p24ab L
+Cing p24c L
+Cing p32 L
+Cing s24 L
+Cing s32 L
+HC CA L
+HC DG L
+HC EC L
+HC HATA L
+HC Subc L
+Ins Id1 L
+Ins Id7 L
+Ins Ig1 L
+Ins Ig2 L
+IPL PFcm L
+IPL PF L
+OFC Fo1 L
+OFC Fo2 L
+OFC Fo3 L
+OP1 L
+OP2 L
+OP3 L
+OP4 L
+OP8 L
+OP9 L
+PSC 2 L
+PSC 3a L
+PSC 3b L
+Vis FG1 L
+Vis FG2 L
+Vis FG3 L
+Vis FG4 L
+Vis hOc1 L
+Vis hOc2 L
+Vis hOc3d L
+Vis hOc3v L
+Vis hOc4d L
+Vis hOc4la L
+Vis hOc4lp L
+Vis hOc4v L
+Vis hOc5 L
+Vis hOc6 L
+AIPS IP3 R
+Amg CM R
+Amg IF R
+Amg LB R
+Amg MF R
+Amg SF R
+Amg VTM R
+Cing 25 R
+Cing p24ab R
+Cing p24c R
+Cing p32 R
+Cing s24 R
+Cing s32 R
+HC CA R
+HC DG R
+HC EC R
+HC HATA R
+HC Subc R
+Ins Id1 R
+Ins Id7 R
+Ins Ig1 R
+Ins Ig2 R
+IPL PFcm R
+IPL PF R
+OFC Fo1 R
+OFC Fo2 R
+OFC Fo3 R
+OP1 R
+OP2 R
+OP3 R
+OP4 R
+OP8 R
+OP9 R
+PSC 2 R
+PSC 3a R
+PSC 3b R
+Vis FG1 R
+Vis FG2 R
+Vis FG3 R
+Vis FG4 R
+Vis hOc1 R
+Vis hOc2 R
+Vis hOc3d R
+Vis hOc3v R
+Vis hOc4d R
+Vis hOc4la R
+Vis hOc4lp R
+Vis hOc4v R
+Vis hOc5 R
+Vis hOc6 R
+A8m L
+A8m R
+A8dl L
+A8dl R
+A9l L
+A9l R
+A6dl L
+A6dl R
+A6m L
+A6m R
+A9m L
+A9m R
+A10m L
+A10m R
+A9/46d L
+A9/46d R
+IFJ L
+IFJ R
+A46 L
+A46 R
+A9/46v L
+A9/46v R
+A8vl L
+A8vl R
+A6vl L
+A6vl R
+A10l L
+A10l R
+A44d L
+A44d R
+IFS L
+IFS R
+A45c L
+A45c R
+A45r L
+A45r R
+A44op L
+A44op R
+A44v L
+A44v R
+A14m L
+A14m R
+A12/47o L
+A12/47o R
+A11l L
+A11l R
+A11m L
+A11m R
+A13 L
+A13 R
+A12/47l L
+A12/47l R
+A4hf L
+A4hf R
+A6cdl L
+A6cdl R
+A4ul L
+A4ul R
+A4t L
+A4t R
+A4tl L
+A4tl R
+A6cvl L
+A6cvl R
+A1/2/3ll L
+A1/2/3ll R
+A4ll L
+A4ll R
+A38m L
+A38m R
+A41/42 L
+A41/42 R
+TE1.0/TE1.2 L
+TE1.0/TE1.2 R
+A22c L
+A22c R
+A38l L
+A38l R
+A22r L
+A22r R
+A21c L
+A21c R
+A21r L
+A21r R
+A37dl L
+A37dl R
+aSTS L
+aSTS R
+A20iv L
+A20iv R
+A37elv L
+A37elv R
+A20r L
+A20r R
+A20il L
+A20il R
+A37vl L
+A37vl R
+A20cl L
+A20cl R
+A20cv L
+A20cv R
+A20rv L
+A20rv R
+A37mv L
+A37mv R
+A37lv L
+A37lv R
+A35/36r L
+A35/36r R
+A35/36c L
+A35/36c R
+TL L
+TL R
+A28/34 L
+TI L
+TI R
+TH L
+TH R
+rpSTS L
+rpSTS R
+cpSTS L
+cpSTS R
+A7r L
+A7r R
+A7c L
+A7c R
+A5l L
+A5l R
+A7pc L
+A7pc R
+A7ip L
+A7ip R
+A39c L
+A39c R
+A39rd L
+A39rd R
+A40rd L
+A40rd R
+A40c L
+A40c R
+A39rv L
+A39rv R
+A40rv L
+A40rv R
+A7m L
+A7m R
+A5m L
+A5m R
+dmPOS L
+dmPOS R
+A31 L
+A31 R
+A1/2/3ulhf L
+A1/2/3ulhf R
+A1/2/3tonIa L
+A1/2/3tonIa R
+A2 L
+A2 R
+A1/2/3tru L
+A1/2/3tru R
+G L
+G R
+vIa L
+vIa R
+dIa L
+dIa R
+vId/vIg L
+vId/vIg R
+dIg L
+dIg R
+dId L
+dId R
+A23d L
+A23d R
+A24rv L
+A24rv R
+A32p L
+A32p R
+A23v L
+A23v R
+A24cd L
+A24cd R
+A23c L
+A23c R
+A32sg L
+A32sg R
+rCunG L
+rCunG R
+rLinG L
+rLinG R
+vmPOS L
+vmPOS R
+mOccG L
+mOccG R
+V5/MT+ L
+V5/MT+ R
+msOccG L
+msOccG R
+lsOccG L
+lsOccG R
+mAmyg L
+mAmyg R
+lAmyg R
+rHipp L
+rHipp R
+cHipp L
+cHipp R
+vCa L
+vCa R
+GP L
+GP R
+NAC L
+NAC R
+vmPu L
+vmPu R
+dCa L
+dCa R
+dlPu L
+I-IV L
+I-IV R
+V L
+V R
+VI L
+vermis-VI
+VI R
+crus1 L
+vermis-crus1
+crus1 R
+crus2 L
+vermis-crus2
+crus2 R
+VIIb L
+vermis-VIIb
+VIIb R
+VIIIa L
+vermis-VIIIa
+VIIIa R
+VIIIb L
+vermis-VIIIb
+VIIIb R
+IX L
+vermis-IX
+IX R
+X L
+vermis-X
+X R
+dentateN L
+dentateN R
+interpN L
+interpN R
+fastigN L
+fastigN R
+Pulvinar L
+AntPulvinar L
+Mediodorsal L
+VLdorsal L
+MedPulvinar L
+VAnt L
+VLventral L
+Pulvinar R
+AntPulvinar R
+Mediodorsal R
+VLdorsal R
+MedPulvinar R
+VAnt R
+VLventral R
+CRlinRaphe
+CuneiformN L
+CuneiformN R
+DRaphe
+InfCollic L
+InfCollic R
+latIMRF L
+latIMRF R
+medIMRF L
+medIMRF R
+InfOlivN L
+InfOlivN R
+isthRF L
+isthRF R
+LocCoeruleus L
+LocCoeruleus R
+latDorTegN L
+latDorTegN R
+latPBN L
+latPBN R
+mcTegN L
+mvTegN R
+medRaphe
+medPBN L
+medPBN R
+antMesRF L
+antMesRF R
+dorsMesRF L
+dorsMesRF R
+latMesRF L
+latMesRF R
+PAG
+aParvReticN L
+aParvReticN R
+ParamedN
+PontReticN L
+PontReticN R
+PedPontineN L
+PedPontine R
+RapheMagN
+RedN1 L
+RedN1 R
+RedN2 L
+RedN2 R
+RapheObscN
+RaphePallN
+SupCollic L
+SupCollic R
+latSupMedulRF L
+latSupMedulRF R
+medSupMedulRF L
+medSupMedulRF R
+SubstNigRetic L
+SubstNigRetic R
+SubstNigComp L
+SubstNigComp R
+SupOlivCompl L
+SupOlivCompl R
+SubCoeruleus L
+SubCoeruleus R
+VestibN L
+VestibB R
+ViscSensMotN L
+ViscSensMotN R
+ventTegArea L
+ventTegArea R
+LGN L
+LGN R
+MGN L
+MGN R
+SubthalN L
+SubthalN R
+MB R
+MB L
+BNST R
+BNST L
+NBasalis R
+NBasalis L
+Hthal R
+Hthal L

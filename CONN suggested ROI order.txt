@@ -20,7 +20,7 @@ BN.[BN] A11l L
 BN.[BN] A45r L
 BN.[BN] A45c L
 BN.[BN] A9/46v L
-L FRONTAL
+L FR
 BN.[BN] A8m L
 BN.[BN] A8dl L
 BN.[BN] A8vl L
@@ -28,7 +28,7 @@ BN.[BN] A12/47o L
 BN.[BN] A12/47l L
 BN.[BN] IFJ L
 BN.[BN] IFS L
-L SOMATOMOTOR
+L SM
 BN.[BN] A4ul L
 BN.[BN] A4t L
 BN.[BN] A4ll L
@@ -39,7 +39,7 @@ BN.[BN] A6cdl L
 BN.[BN] A6m L
 BN.[BN] A6cvl L
 BN.[BN] A4tl L
-L SOMATOSENSORY
+L SS
 BN.[BN] A1/2/3ll L
 BN.[BN] A1/2/3ulhf L
 BN.[BN] A1/2/3tonIa L
@@ -48,7 +48,7 @@ EI.[EI] OP3 L
 EI.[EI] OP4 L
 EI.[EI] OP1 L
 EI.[EI] PSC 3b L
-L VISUAL
+L VIS
 EI.[EI] Vis hOc5 L
 EI.[EI] Vis FG2 L
 EI.[EI] Vis FG4 L
@@ -97,7 +97,7 @@ BN.[BN] A40rv L
 BN.[BN] A40c L
 BN.[BN] A39rd L
 BN.[BN] A39c L
-L CINGULATE
+L CING
 EI.[EI] Cing p32 L
 EI.[EI] Cing p24ab L
 BN.[BN] A32sg L
@@ -111,7 +111,7 @@ BN.[BN] A31 L
 BN.[BN] A24rv L
 BN.[BN] A24cd L
 BN.[BN] A23v L
-L SUP TEMPORAL
+L SUP TEMP
 BN.[BN] rpSTS L
 BN.[BN] cpSTS L
 BN.[BN] A38m L
@@ -121,10 +121,10 @@ BN.[BN] A22r L
 BN.[BN] A22c L
 BN.[BN] aSTS L
 BN.[BN] A41/42 L
-L MID TEMPORAL
+L MID TEMP
 BN.[BN] A21c L
 BN.[BN] A21r L
-L INSULA
+L INS
 EI.[EI] Ins Ig2 L
 EI.[EI] Ins Ig1 L
 BN.[BN] dId L
@@ -135,7 +135,7 @@ BN.[BN] dIa L
 BN.[BN] G L
 EI.[EI] Ins Id1 L
 EI.[EI] Ins Id7 L
-L MEDIAL TEMPORAL
+L MED TEMP
 EI.[EI] Amg MF L
 BN.[BN] mAmyg L
 EI.[EI] Amg SF L
@@ -156,13 +156,13 @@ EI.[EI] HC CA L
 EI.[EI] HC DG L
 BN.[BN] A28/34 L
 BN.[BN] A35/36r L
-L EXTD VESTIBULAR
+L EXTD VB
 EI.[EI] AIPS IP3 L
 BN.[BN] A7ip L
 EI.[EI] PSC 3a L
 EI.[EI] PSC 2 L
 BN.[BN] A2 L
-L VESTIBULAR
+L VB
 EI.[EI] PIC L
 BS.[BS] VestibN L
 BN.[BN] A23c L
@@ -181,7 +181,7 @@ HTH.[HT] MB L
 HTH.[HT] Hthal L
 HTH.[HT] BNST L
 HTH.[HT] NBasalis L
-L THALAMUS
+L THAL
 TH.[TH] VLventral L
 TH.[TH] MedPulvinar L
 TH.[TH] Pulvinar L
@@ -189,7 +189,7 @@ TH.[TH] Mediodorsal L
 TH.[TH] AntPulvinar L
 TH.[TH] VLdorsal L
 TH.[TH] VAnt L
-L CEREBELLUM
+L CRB
 CRB.[CB] crus2 L
 CRB.[CB] crus1 L
 CRB.[CB] V L
@@ -203,7 +203,7 @@ CRB.[CB] fastigN L
 CRB.[CB] IX L
 CRB.[CB] VIIIb L
 CRB.[CB] I-IV L
-L BRAINSTEM-DIENCEPH
+L BS-DE
 BS.[BS] PontReticN L
 BS.[BS] medSupMedulRF L
 BS.[BS] medIMRF L
@@ -236,7 +236,7 @@ BS.[BS] medPBN L
 BS.[BS] LocCoeruleus L
 BS.[BS] SubstNigComp L
 BS.[BS] SubstNigRetic L
-M BRAINSTEM-DIENCEPH
+M BS-DE
 BS.[BS] RapheObscN
 BS.[BS] PAG
 BS.[BS] DRaphe
@@ -244,7 +244,7 @@ BS.[BS] CRlinRaphe
 BS.[BS] ParamedN
 BS.[BS] medRaphe
 BS.[BS] RaphePallN
-M CEREBELLUM
+M CRB
 CRB.[CB] vermis-VI
 CRB.[CB] vermis-X
 CRB.[CB] vermis-crus1
@@ -253,7 +253,7 @@ CRB.[CB] vermis-crus2
 CRB.[CB] vermis-VIIIb
 CRB.[CB] vermis-VIIIa
 CRB.[CB] vermis-IX
-R BRAINSTEM-DIENCEPH
+R BS-DE
 BS.[BS] medIMRF R
 BS.[BS] LocCoeruleus R
 BS.[BS] medPBN R
@@ -285,7 +285,7 @@ BS.[BS] CuneiformN R
 BS.[BS] ViscSensMotN R
 BS.[BS] SubstNigRetic R
 BS.[BS] SubstNigComp R
-R CEREBELLUM
+R CRB
 CRB.[CB] crus2 R
 CRB.[CB] crus1 R
 CRB.[CB] VIIb R
@@ -299,7 +299,7 @@ CRB.[CB] interpN R
 CRB.[CB] IX R
 CRB.[CB] VIIIb R
 CRB.[CB] I-IV R
-R THALAMUS
+R THAL
 TH.[TH] Pulvinar R
 TH.[TH] VLdorsal R
 TH.[TH] AntPulvinar R
@@ -318,20 +318,20 @@ BN.[BN] vCa R
 BN.[BN] dCa R
 BN.[BN] vmPu R
 BN.[BN] GP R
-R VESTIBULAR
+R VB
 EI.[EI] OP2 R
 EI.[EI] PIC R
 BS.[BS] VestibB R
 BN.[BN] A23c R
 EI.[EI] IPL PFcm R
 EI.[EI] IPL PF R
-R EXTD VESTIBULAR
+R EXTD VB
 BN.[BN] A7ip R
 EI.[EI] PSC 2 R
 EI.[EI] PSC 3a R
 EI.[EI] AIPS IP3 R
 BN.[BN] A2 R
-R MEDIAL TEMPORAL
+R MED TEMP
 BN.[BN] rHipp R
 EI.[EI] Amg LB R
 EI.[EI] Amg IF R
@@ -352,7 +352,7 @@ EI.[EI] HC DG R
 EI.[EI] HC CA R
 BN.[BN] A35/36r R
 BN.[BN] A35/36c R
-R INSULA
+R INS
 EI.[EI] Ins Ig2 R
 EI.[EI] Ins Id1 R
 EI.[EI] Ins Ig1 R
@@ -363,10 +363,10 @@ BN.[BN] vId/vIg R
 BN.[BN] dId R
 BN.[BN] dIa R
 EI.[EI] Ins Id7 R
-R MID TEMPORAL
+R MID TEMP
 BN.[BN] A21c R
 BN.[BN] A21r R
-R SUP TEMPORAL
+R SUP TEMP
 BN.[BN] rpSTS R
 BN.[BN] cpSTS R
 BN.[BN] aSTS R
@@ -376,7 +376,7 @@ BN.[BN] TE1.0/TE1.2 R
 BN.[BN] A22c R
 BN.[BN] A22r R
 BN.[BN] A41/42 R
-R CINGULATE
+R CING
 EI.[EI] Cing p32 R
 BN.[BN] A24rv R
 EI.[EI] Cing p24c R
@@ -407,7 +407,7 @@ BN.[BN] A7r R
 R POS
 BN.[BN] dmPOS R
 BN.[BN] vmPOS R
-R VISUAL
+R VIS
 EI.[EI] Vis hOc4lp R
 EI.[EI] Vis FG1 R
 EI.[EI] Vis hOc4v R
@@ -439,7 +439,7 @@ BN.[BN] A37vl R
 BN.[BN] A37elv R
 BN.[BN] A37lv R
 BN.[BN] A20cl R
-R SOMATOSENSORY
+R SS
 BN.[BN] A1/2/3ulhf R
 BN.[BN] A1/2/3tru R
 BN.[BN] A1/2/3ll R
@@ -448,7 +448,7 @@ EI.[EI] OP3 R
 EI.[EI] OP4 R
 EI.[EI] OP1 R
 EI.[EI] PSC 3b R
-R SOMATOMOTOR
+R SM
 BN.[BN] A6vl R
 BN.[BN] A4ll R
 BN.[BN] A4t R
@@ -459,7 +459,7 @@ BN.[BN] A6cdl R
 BN.[BN] A6dl R
 BN.[BN] A4tl R
 BN.[BN] A6cvl R
-R FRONTAL
+R FR
 BN.[BN] A8m R
 BN.[BN] A8vl R
 BN.[BN] A8dl R
