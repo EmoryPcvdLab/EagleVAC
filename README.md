@@ -15,11 +15,42 @@ This atlas collection is intended for use with the CONN Toolbox (https://web.con
 * Diencephalon ROIs from Brainstem Navigator
 * Neudorfer Anatomical Hypothalamus Atlas
 ## Files
+<!--
 * ".nii.gz" files contain the atlas ROIs
 * "atlas...txt" files contain the ROI labels for use with the CONN Toolbox
 * "roi_numbers.txt" files contain human-readable ROI labels, ROI values, and their descriptions
 * "CONN suggested ROI order.txt" can be copied and pasted into CONN for connectome rendering, in order to sort ROIs by hemisphere, region, and function; also includes group labels such as SM (somatomotor), SS (somatosensory), VB (vestibular), BS-DE (brainstem-diencephalon), and CRB (cerebellum)
 * "CONN suggested labels.txt" can be copied and pasted into CONN for connectome rendering: this removes the initial atlas source (e.g., "EI.[EI]") which CONN automatically prefixes and shortens ROI labels for rendering
+-->
+<table>
+<tbody>
+<tr style="vertical-align:top">
+<th align="left">File</th>
+<th>Usage</th>
+</tr>
+<tr style="vertical-align:top">
+  <td><b>*.nii.gz</b></td>
+<td>Contain the atlas ROIs</td>
+</tr>
+<tr style="vertical-align:top">
+  <td><b>atlas*.txt</b></td>
+<td>Contain the ROI labels for use with the CONN Toolbox</td>
+</tr>
+<tr style="vertical-align:top">
+  <td><b>roi_numbers.txt</b></td>
+<td>Contain human-readable ROI labels, ROI values, and their descriptions</td>
+</tr>
+<tr style="vertical-align:top">
+  <td><b>CONN suggested ROI order.txt</b></td>
+<td>Can be copied and pasted into CONN for connectome rendering, in order to sort ROIs by hemisphere, region, and function; also includes group labels such as SM (somatomotor), SS (somatosensory), VB (vestibular), BS-DE (brainstem-diencephalon), and CRB (cerebellum)</td>
+</tr>
+<tr style="vertical-align:top">
+  <td><b>CONN suggested labels.txt</b></td>
+<td>Can be copied and pasted into CONN for connectome rendering: this removes the initial atlas source (e.g., "EI.[EI]") which CONN automatically prefixes and shortens ROI labels for rendering</td>
+</tr>
+</tbody>
+</table>
+
 ## References
 If you leverage this atlas collection, in whole or in part, you MUST cite the following references in any publications.
 
