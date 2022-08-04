@@ -1,5 +1,5 @@
 # Eagle-449
-<b>EMORY UNIVERSITY PCVD RESEARCH GROUP ATLAS COMPILATION FOR VESTIBULAR RESEARCH</b><br><br>
+<b>AN ATLAS COMPILATION FOR VESTIBULAR RESEARCH</b><br><br>
 This collection of atlases is provided by the Post-Concussion Vestibular Dysfunction (PCVD) research group at the Emory University School of Medicine, Atlanta, Georgia, United States. It consists of seven source atlases at 1mm isotropic resolution which are customized to facilitate functional and structural connectivity analyses of the vestibular system. Each source atlas has been processed to ensure that there are no overlaps among the ROIs.
 
 This atlas collection is intended for use with the CONN Toolbox (https://web.conn-toolbox.org). Simply import the GZipped NIfTI files and alert CONN that they are atlases by clicking the "Atlas" checkbox.
