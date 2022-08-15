@@ -51,11 +51,11 @@ This atlas collection is intended for use with the CONN Toolbox (https://web.con
 </tbody>
 </table>
 
-## References
-If you leverage this atlas collection, in whole or in part, you MUST cite the following references in any publications.
+## Data Use Agreement/References
+If you leverage this atlas collection, in whole or in part, you MUST cite the following references in any publications. There is NO requirement to include the primary reference authors (Smith et al. 2022) as co-authors on your publication.
 
 <b>Primary reference</b>:
-* Smith et al. (2022)
+* Smith JL, Ahluwalia V, Gore RK, Allen JW (2022) (in preparation).
 
 <b>Eickhoff-Julich-Fan</b>:
 * Amunts K, Mohlberg H, Bludau S, Zilles K. Julich-Brain: A 3D probabilistic atlas of the human brain’s cytoarchitecture. Science. 2020 Aug 21;369(6506):988-92. https://doi.org/10.1126/science.abb4588
@@ -79,7 +79,11 @@ If you leverage this atlas collection, in whole or in part, you MUST cite the fo
 * Neudorfer, C., Germann, J., Elias, G.J.B. et al. A high-resolution in vivo magnetic resonance imaging atlas of the human hypothalamic region. Sci Data 7, 305 (2020). https://doi.org/10.1038/s41597-020-00644-6
 
 ## PCVD Lab Contributors
-(List lab members here.)
+Members of the PCVD lab who contributed to this atlas compilation:
+
+<b>Jeremy L. Smith, PhD, MSDS</b>: compiled the original source atlases, conducted the processing and quality assurance workflows for merging of the source atlases, and performed the technical validation using Human Connectome Project data.
+<b>Vishwadeep Ahluwalia, PhD</b>: supervised the analysis and edited the primary publication.
+<b>Russell K. Gore, MD</b> and <b>Jason W. Allen, MD, PhD</b>: jointly conceived, designed, and supervised implementation of the study, provided clinical interpretation of the results, and supervised the analysis and edited the primary publication.
 
 ## PCVD Lab Funding
-(List all funding here.)
+This project was supported by NIH/NINDS grant R01NS119683 and a seed grant from the Emory University Department of Radiology and Imaging Sciences.
