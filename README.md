@@ -82,7 +82,9 @@ If you leverage this atlas collection, in whole or in part, you MUST cite the fo
 Members of the PCVD lab who contributed to this atlas compilation:
 
 <b>Jeremy L. Smith, PhD, MSDS</b>: compiled the original source atlases, conducted the processing and quality assurance workflows for merging of the source atlases, and performed the technical validation using Human Connectome Project data.
+
 <b>Vishwadeep Ahluwalia, PhD</b>: supervised the analysis and edited the primary publication.
+
 <b>Russell K. Gore, MD</b> and <b>Jason W. Allen, MD, PhD</b>: jointly conceived, designed, and supervised implementation of the study, provided clinical interpretation of the results, and supervised the analysis and edited the primary publication.
 
 ## PCVD Lab Funding
