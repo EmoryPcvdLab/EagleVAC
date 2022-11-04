@@ -1,5 +1,10 @@
 #!/bin/bash
 
+# This code has been made available under the GPL version 3. The GPL
+# applies SOLELY to this code as the authors have no ownership of the
+# source atlases. For more information on the GPLv3, see:
+# https://github.com/EmoryPcvdLab/EagleVAC/blob/main/LICENSE
+
 #============================ OVERRIDES ============================
 # NOTE 2022 Apr 2 -- Switched these overrides to OFF because the
 #   results all look good (except hypothalamus). See TO DO notes
