@@ -54,6 +54,8 @@ This atlas collection is intended for use with the CONN Toolbox (https://web.con
 ## Data Use Agreement/References
 If you leverage this atlas collection, in whole or in part, you MUST cite the following references in any publications. There is NO requirement to include the primary reference authors (Smith et al. 2022) as co-authors on your publication.
 
+The GPL license associated with this repository applies only to the BASH code (merge_code.bash) used in the development of this project. The authors have no claim over the source atlases, several of which are provided by their authors on other sites under specific licenses, such as Creative Commons (CC-NA).
+
 <b>Primary reference</b>:
 * Smith JL, Ahluwalia V, Gore RK, Allen JW (2022) (in preparation).
 
