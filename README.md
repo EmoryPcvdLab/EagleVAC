@@ -1,10 +1,11 @@
 # Eagle-449
 <b>AN ATLAS COMPILATION FOR VESTIBULAR RESEARCH</b><br><br>
-This collection of atlases is provided by the Post-Concussion Vestibular Dysfunction (PCVD) research group at the Emory University School of Medicine, Atlanta, Georgia, United States. It consists of seven source atlases at 1mm isotropic resolution which are customized to facilitate functional and structural connectivity analyses of the vestibular system. Each source atlas has been processed to ensure that there are no overlaps among the ROIs.
+This collection of atlases is provided by the Post-Concussion Vestibular Dysfunction (PCVD) research group at the Emory University School of Medicine, Atlanta, Georgia, United States. It consists of seven source atlases at 1mm isotropic resolution which are customized to facilitate functional and structural connectivity analyses of the vestibular system. Each source atlas has been processed to ensure that there are no overlaps among the ROIs. Our initial publication on this compilation can be found <a href="https://doi.org/10.1038%2Fs41597-023-01938-1">here</a>.
 
 This atlas collection is intended for use with the CONN Toolbox (https://web.conn-toolbox.org). Simply import the GZipped NIfTI files and alert CONN that they are atlases by clicking the "Atlas" checkbox.
 
-![social_preview](https://user-images.githubusercontent.com/104218418/164759058-cbcaff69-e14b-40a9-b6ae-178e9e8e78ef.png)
+![social_preview](https://user-images.githubusercontent.com/104218418/213888012-87a6e40d-75a3-4e22-b8cd-da2b960ac0f4.png)
+
 
 ## Source Atlases
 * Eickhoff and Indovina ROIs
@@ -52,12 +53,12 @@ This atlas collection is intended for use with the CONN Toolbox (https://web.con
 </table>
 
 ## Data Use Agreement/References
-If you leverage this atlas collection, in whole or in part, you MUST cite the following references in any publications. There is NO requirement to include the primary reference authors (Smith et al. 2022) as co-authors on your publication.
+If you leverage this atlas collection, in whole or in part, you MUST cite the following references in any publications. There is NO requirement to include the primary reference authors (<a href="https://doi.org/10.1038%2Fs41597-023-01938-1">Smith et al. 2023</a>) as co-authors on your publication.
 
 The GPL license associated with this repository applies only to the BASH code (merge_code.bash) used in the development of this project. The authors have no claim over the source atlases, several of which are provided by their authors on other sites under specific licenses, such as Creative Commons (CC-NA).
 
 <b>Primary reference</b>:
-* Smith JL, Ahluwalia V, Gore RK, Allen JW (2022) (in preparation).
+* Smith JL, Ahluwalia V, Gore RK, Allen JW. Eagle-449: A volumetric, whole-brain compilation of brain atlases for vestibular functional MRI research. Sci Data. 2023 Jan 14;10(1):29. <a href="https://doi.org/10.1038%2Fs41597-023-01938-1">doi: 10.1038/s41597-023-01938-1</a>. PMID: 36641517; PMCID: PMC9840609.
 
 <b>Eickhoff-Julich-Fan</b>:
 * Amunts K, Mohlberg H, Bludau S, Zilles K. Julich-Brain: A 3D probabilistic atlas of the human brain’s cytoarchitecture. Science. 2020 Aug 21;369(6506):988-92. https://doi.org/10.1126/science.abb4588
