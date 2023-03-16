@@ -52,6 +52,14 @@ This atlas collection is intended for use with the CONN Toolbox (https://web.con
 </tbody>
 </table>
 
+## Usage
+Currently, the files in this compilation are optimized for use with the CONN Toolbox. (We are working on adapting it for use with FSL.) Simply add the GZipped NIfTI files as atlases in the SETUP tab of the toolbox. CONN will automatically associate the ROIs in each NIfTI file with a label as long as the atlas*.txt files are in the same folder. Naturally, you can also conduct analyses on only a subset of these ROIs; the included Excel spreadsheet not only includes ROI values and labels for each atlas, but two tabs highlighting the "vestibular" and "extended vestibular" ROIs as well, for ease of reference. (See Smith et al 2023 for definitions of these groups.)
+
+You also may wish to use abbreviated labels and an alternate ROI order for visualization. The "CONN suggested ROI order" and "CONN suggested labels" text files can be copied and pasted into CONN for manual ROI grouping and ordering. <b>NOTE:</b> (1) These files assume you're using all 449 ROIs, and (2) manual ROI ordering may affect the way CONN sees "clusters" of ROIs (e.g., "Network-Based Statistics" and "Functional Network Connectivity" methods), since these methods perform hierarchical ROI clustering by default.
+
+## Please contribute!
+We welcome edits and additions to this compilation &mdash; we only ask that any additions are based on peer-reviewed results. Examples include subdivisions of ROIs based on ICA or anatomical findings, cross-modality mapping such as genome expression, and new labels. Future versions will be provided to the scientific community as new project branches (subdirectories under the main project folder). These versions will likely be called something other than "449," since this designates that the current version includes 449 ROIs!
+
 ## Data Use Agreement/References
 If you leverage this atlas collection, in whole or in part, you MUST cite the following references in any publications. There is NO requirement to include the primary reference authors (<a href="https://doi.org/10.1038%2Fs41597-023-01938-1">Smith et al. 2023</a>) as co-authors on your publication.
 
